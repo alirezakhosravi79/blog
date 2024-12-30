@@ -1,0 +1,11 @@
+
+.textareaWrapper lable {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.textareaWrapper textarea {
+  width: 100%;
+  min-height: 200px;
+  border: 2px solid #ccc;
+}

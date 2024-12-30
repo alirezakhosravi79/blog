@@ -1,0 +1,14 @@
+.inputWrapper {
+    margin-bottom: 20px;
+}
+
+.inputWrapper label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.inputWrapper input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ccc;
+}

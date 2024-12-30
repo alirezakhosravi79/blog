@@ -1,0 +1,21 @@
+.headerWrapper {
+  box-shadow: 0 3px 5px #ddd;
+}
+
+.header {
+  height: 60px;
+  align-items: center;
+  display: flex;
+}
+
+.header ul {
+    display: flex;
+    flex-direction: row-reverse;
+    list-style: none;
+    padding: 0 40px;
+}
+
+.header ul li {
+    margin-right: 20px;
+    cursor: pointer;
+}

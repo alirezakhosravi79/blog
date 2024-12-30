@@ -1,0 +1,25 @@
+.articleWrapper {
+    height: 400px;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 5px #ccc;
+    border-radius:17px;
+}
+
+.articleWrapper img {
+    width: 100%;
+    height: 55%;
+    margin-bottom: 40px;
+}
+
+.articleWrapper h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 8px;
+}
+
+.articleWrapper p {
+    text-align: center;
+    padding: 8px;
+    color: black;
+    font-size: 18px;
+}
